@@ -1,6 +1,6 @@
-## Challenge_Week_20_Solidity_and_Remix
+# Challenge_Week_20_Solidity_and_Remix
 
-# Joint Savings Account Using Solidity and Remix
+## Joint Savings Account Using Solidity and Remix
 -----------------------------------------------
 **Introduction**
 
