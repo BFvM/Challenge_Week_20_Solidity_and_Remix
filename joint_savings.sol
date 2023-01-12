@@ -44,7 +44,7 @@ contract JointSavings {
         Define a `require` statement that checks if the `recipient` is equal to either `accountOne` or `accountTwo`. The `requiere` statement returns the text `"You don't own this account!"` if it does not.
         */
         // YOUR CODE HERE!
-        require ((lastWithdrawAmount <= contractBalance), "Insufficient funds!");
+        require ((lastWithdrawAmount <= contractBalance), "You have insufficient funds!");
 
         /*
         Define a `require` statement that checks if the `balance` is sufficient to accomplish the withdraw operation. If there are insufficient funds, the text `Insufficient funds!` is returned.
